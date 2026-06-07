@@ -1,5 +1,7 @@
 <div align="center">
 
+# 👋 Hi, I'm Charles Jose
+
 <!-- HEADER BANNER - capsule-render is widely supported on GitHub -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00D4AA,100:7B2FBE&height=220&section=header&text=Charles%20Jose&fontSize=65&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Aspiring%20Data%20Analyst%20%26%20AI%20Engineer&descAlignY=60&descSize=20&descColor=E0E0FF" width="100%"/>
 
